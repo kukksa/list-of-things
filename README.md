@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+<div align="center">
+<h1>List of things application</h1>
+<h4>My first project in React. Application for recording the necessary things on the road.</h4>
+<h4>Used to create the application: React, JS, HTML/CSS</h4>
+<p>View Demo <a href="https://list-of-things-dk.netlify.app/" target="_blank">List of things</a></p>  
+</div> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br>
+<br>
+<br>
+
+
+
+
+
+
 
 ## Available Scripts
 
